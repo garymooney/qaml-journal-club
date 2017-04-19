@@ -32,10 +32,13 @@ Sources: [Nature](http://dx.doi.org/10.1038/s41534-017-0018-2) and [arXiv](https
 
 This paper is a review on quantum speedup for quantum sampling problems such as BosonSampling and IQP. IQP is essentially a generalisation of BosonSampling for commuting quantum gates on qubits. The paper reduces the argument of quantum supremacy for BosonSampling and IQP to be that either the polynomial hierarchy collapses to the third level or quantum algorithms are more powerful than classical. This is similar to the statement P = NP, except relative to an oracle. They go on to say that 50 photons (or qubits with sufficiently high fidelity for IQP) would be sufficient to demonstrate quantum supremacy. So quantum sampling is a promising direction that brings us much closer to demonstrating quantum supremacy.
 
-### 4. Quantum Machine Learning over Infinite Dimensions - Lau, Pooser, Siopsis and Weedbrook
+### 4. Application of Quantum Annealing to Training of Deep Neural Networks – Adachi and Henderson
+Source: [arXiv](https://arxiv.org/abs/1510.06356)
+
+### 5. Quantum Machine Learning over Infinite Dimensions - Lau, Pooser, Siopsis and Weedbrook
 Sources: [PRL](https://doi.org/10.1103/PhysRevLett.118.080501) and [arXiv](https://arxiv.org/abs/1603.06222)
 
-### 5. Quantum machine learning with small-scale devices: Implementing a distance-based classifier with a quantum interference circuit - Schuld, Fingerhuth, and Petruccione.
+### 6. Quantum machine learning with small-scale devices: Implementing a distance-based classifier with a quantum interference circuit - Schuld, Fingerhuth, and Petruccione.
 Source: [arXiv](https://arxiv.org/abs/1703.10793)
 
 ## Interesting Papers (not yet covered)
