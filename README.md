@@ -28,7 +28,7 @@ The unsupervised algorithm (clustering) is for k-means clustering which uses Llo
 I think the take home message of this paper was that quantum computers are powerful when it comes to manipulating large numbers of high-dimensional vector spaces, which is precisely what is required for vector-based machine learning. This paper runs through some examples of how existing quantum algorithms can be directly applied to supervised and unsupervised machine learning clustering problems.
 
 #### 3. Quantum Sampling Problems, BosonSampling and Quantum Supremacy – A. P. Lund _et al_.
-Sources: [Nature](http://dx.doi.org/10.1038/s41534-017-0018-2) and [arXiv](https://arxiv.org/abs/1307.0411)
+Sources: [npjQI](http://dx.doi.org/10.1038/s41534-017-0018-2) and [arXiv](https://arxiv.org/abs/1307.0411)
 
 This paper is a review on quantum speedup for quantum sampling problems such as BosonSampling and IQP. IQP is essentially a generalisation of BosonSampling for commuting quantum gates on qubits. The paper reduces the argument of quantum supremacy for BosonSampling and IQP to be that either the polynomial hierarchy collapses to the third level or quantum algorithms are more powerful than classical. This is similar to the statement P = NP, except relative to an oracle. They go on to say that 50 photons (or qubits with sufficiently high fidelity for IQP) would be sufficient to demonstrate quantum supremacy. So quantum sampling is a promising direction that brings us much closer to demonstrating quantum supremacy.
 
