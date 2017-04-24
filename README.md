@@ -2,7 +2,7 @@ Quantum Algorithms and Machine Learning Reading Group
 ======
 This is a reading material archive for a journal club held at Melbourne University. 
 
-A paper will be sent out every fortnight. The goal is to openly discuss it at various depths as a group. So no matter what your background is, we will all hopefully learn something. The meetings are casual, so there's no pressure to present or anything like that.
+A paper will be sent out every week. The goal is to openly discuss it at various depths as a group. So no matter what your background is, we will all hopefully learn something. The meetings are casual, so there's no pressure to present or anything like that.
 
 In the past weeks we have covered the following papers:
 
@@ -41,8 +41,12 @@ Sources: [PRL](https://doi.org/10.1103/PhysRevLett.118.080501) and [arXiv](https
 #### 6. Quantum machine learning with small-scale devices: Implementing a distance-based classifier with a quantum interference circuit - Schuld, Fingerhuth, and Petruccione.
 Source: [arXiv](https://arxiv.org/abs/1703.10793)
 
-#### This Week: Quantum Random Access Memory - V. Giovannetti, S. Lloyd, L. Maccone
+#### 7. Quantum Random Access Memory - V. Giovannetti, S. Lloyd, L. Maccone
 Sources:  [PRL](https://doi.org/10.1103/PhysRevLett.100.160501) and [arXiv](https://arxiv.org/abs/0708.1879)
+
+Another paper on qRAM that goes a little more into detail: Architectures for a quantum random access memory - V. Giovannetti, S. Lloyd, L. Maccone
+
+Sources: [PRA](https://doi.org/10.1103/PhysRevA.78.052310) and [arXiv](https://arxiv.org/abs/0807.4994)
 
 ## Interesting Papers (not yet covered)
 [Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine _et al._
