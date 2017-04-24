@@ -55,6 +55,8 @@ Sources: [PRA](https://doi.org/10.1103/PhysRevA.78.052310) and [arXiv](https://a
 
 [Quantum Machine Learning](https://arxiv.org/abs/1611.09347) (28-Nov-16) - Biamonte _et al._ (Seth Lloyd's group)
 
+[An Introduction to Quantum Machine Learning](http://dx.doi.org/10.1080/00107514.2014.964942) (15-Oct-14) - Schuld, Sinayskiy, and Petruccione
+
 ## Useful Links
 [colah's blog](http://colah.github.io/) for various machine learning concepts and in particular the post [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
