@@ -44,9 +44,10 @@ Source: [arXiv](https://arxiv.org/abs/1703.10793)
 #### 7. Quantum Random Access Memory - V. Giovannetti, S. Lloyd, L. Maccone
 Sources:  [PRL](https://doi.org/10.1103/PhysRevLett.100.160501) and [arXiv](https://arxiv.org/abs/0708.1879)
 
-Another paper on qRAM that goes a little more into detail: Architectures for a quantum random access memory - V. Giovannetti, S. Lloyd, L. Maccone
+Another paper by the same authors on qRAM that goes into more detail is Architectures for a Quantum Random Access Memory [[arXiv]](https://arxiv.org/abs/0807.4994) and [[PRA]](https://doi.org/10.1103/PhysRevA.78.052310).
 
-Sources: [PRA](https://doi.org/10.1103/PhysRevA.78.052310) and [arXiv](https://arxiv.org/abs/0807.4994)
+#### This Week: Quantum gradient descent for linear systems and least squares - I. Kerenidis and A. Prakash
+Source: [arXiv](https://arxiv.org/pdf/1704.04992.pdf)
 
 ## Interesting Papers (not yet covered)
 [Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine _et al._
