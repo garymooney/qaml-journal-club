@@ -79,11 +79,11 @@ __This Week: Quantum gradient descent for linear systems and least squares__ - K
 
 
 ## Interesting Papers (not yet covered)
-[Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine _et al._
+[Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine, Yakira, Cohen and Shashua
 
-[A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806) (24-Jan-17) - Arunachalam and Wolf
+[A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806) (24-Jan-17) - Arunachalam and Wolf.
 
-[Quantum Machine Learning](https://arxiv.org/abs/1611.09347) (28-Nov-16) - Biamonte _et al._ (Seth Lloyd's group)
+[Quantum Machine Learning](https://arxiv.org/abs/1611.09347) (28-Nov-16) - Biamonte, Wittek, Pancotti, Rebentrost, Wiebe and Lloyd.
 
 [An Introduction to Quantum Machine Learning](http://dx.doi.org/10.1080/00107514.2014.964942) (15-Oct-14) - Schuld, Sinayskiy, and Petruccione
 
