@@ -85,8 +85,16 @@ Current work on quantum gradient descent algorithms have a major issue where eac
 
 Most of the rest of the paper seems to go deep into the details and applications of the above while providing proofs for many of the methods. They define quantum gradient descent and go into detail about the correctness and running time. They show how their improved SVE procedure can be used to directly solve linear systems. Then they apply it to the linear update of quantum gradient descent, which can then be used to indirectly solve linear equations. These two methods are then compared. Finally they show how quantum gradient descent and stochastic quantum gradient descent can be used to solve the weighted least squares problem.
 
+__This Week: Simulating a perceptron on a quantum computer__ - Schuld, Sinayskiy and Petruccione  
+  * University of KwaZulu-Natal, and National Institute for Theoretical Physics (KwaZulu-Natal).
+
+> Schuld, Maria, Ilya Sinayskiy, and Francesco Petruccione. [Physics Letters A](https://doi.org/10.1016/j.physleta.2014.11.061) 379.7 (20-Mar-15): 660-663.
+
+> Schuld, Maria, Ilya Sinayskiy, and Francesco Petruccione. arXiv preprint [arXiv:1412.3635](https://arxiv.org/abs/1412.3635) (11-Dec-14).
 
 ## Interesting Papers (not yet covered)
+[A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
+
 [Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine, Yakira, Cohen and Shashua
 
 [A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806) (24-Jan-17) - Arunachalam and Wolf.
