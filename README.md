@@ -85,12 +85,17 @@ Current work on quantum gradient descent algorithms have a major issue where eac
 
 Most of the rest of the paper seems to go deep into the details and applications of the above while providing proofs for many of the methods. They define quantum gradient descent and go into detail about the correctness and running time. They show how their improved SVE procedure can be used to directly solve linear systems. Then they apply it to the linear update of quantum gradient descent, which can then be used to indirectly solve linear equations. These two methods are then compared. Finally they show how quantum gradient descent and stochastic quantum gradient descent can be used to solve the weighted least squares problem.
 
-__This Week: Simulating a perceptron on a quantum computer__ - Schuld, Sinayskiy and Petruccione  
+__9. Simulating a perceptron on a quantum computer__ - Schuld, Sinayskiy and Petruccione  
   * University of KwaZulu-Natal, and National Institute for Theoretical Physics (KwaZulu-Natal).
 
 > Schuld, Maria, Ilya Sinayskiy, and Francesco Petruccione. [Physics Letters A](https://doi.org/10.1016/j.physleta.2014.11.061) 379.7 (20-Mar-15): 660-663.
 
 > Schuld, Maria, Ilya Sinayskiy, and Francesco Petruccione. arXiv preprint [arXiv:1412.3635](https://arxiv.org/abs/1412.3635) (11-Dec-14).
+
+__This Week: Quantum Machine Learning__ - Biamonte, Wittek, Pancotti, Rebentrost, Wiebe and Lloyd
+  * University of Malta, University of Waterloo, ICFO - The Institute of Photonic Sciences (Spain), University of Borås (Sweden), Max Planck Insitute of Quantum Optics (Germany), MIT, Station Q (Microsoft Research).
+
+> Biamonte, Jacob, et al. "Quantum Machine Learning." arXiv preprint [arXiv:1611.09347](https://arxiv.org/abs/1611.09347) (28-Nov-16).
 
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
@@ -99,7 +104,7 @@ __This Week: Simulating a perceptron on a quantum computer__ - Schuld, Sinayskiy
 
 [A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806) (24-Jan-17) - Arunachalam and Wolf.
 
-[Quantum Machine Learning](https://arxiv.org/abs/1611.09347) (28-Nov-16) - Biamonte, Wittek, Pancotti, Rebentrost, Wiebe and Lloyd.
+[Quantum Deep Learning](https://arxiv.org/abs/1412.3489) (22-May-15) - Wiebe, Kapoor and Svore
 
 [An Introduction to Quantum Machine Learning](http://dx.doi.org/10.1080/00107514.2014.964942) (15-Oct-14) - Schuld, Sinayskiy, and Petruccione
 
