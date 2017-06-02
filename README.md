@@ -92,10 +92,14 @@ __9. Simulating a perceptron on a quantum computer__ - Schuld, Sinayskiy and Pet
 
 > Schuld, Maria, Ilya Sinayskiy, and Francesco Petruccione. arXiv preprint [arXiv:1412.3635](https://arxiv.org/abs/1412.3635) (11-Dec-14).
 
-__This Week: Quantum Machine Learning__ - Biamonte, Wittek, Pancotti, Rebentrost, Wiebe and Lloyd
+__10. Quantum Machine Learning__ - Biamonte, Wittek, Pancotti, Rebentrost, Wiebe and Lloyd
   * University of Malta, University of Waterloo, ICFO - The Institute of Photonic Sciences (Spain), University of Borås (Sweden), Max Planck Insitute of Quantum Optics (Germany), MIT, Station Q (Microsoft Research).
 
 > Biamonte, Jacob, et al. "Quantum Machine Learning." arXiv preprint [arXiv:1611.09347](https://arxiv.org/abs/1611.09347) (28-Nov-16).
+
+This is a great and detailed literature review on the fields combining machine learning and quantum computing. It looks at multiple perspectives including how machine learning could be used to help us improve and better understand quantum systems, how quantum computing could be used to improve the training of machine learning algorithms, experimental implementations of machine learning algorithms on physical quantum systems, quantum speedup, and the limits of machine learning with quantum systems. The paper mentions various open problems along the way.
+
+Quantum computing will speedup machine learning algorithms and machine learning algorithms can be used to help create better quantum computers. This leads to a frontier where both fields will co-evolve and become enabling technologies for each other. However there are still many problems to investigate and challenges to overcome. I highly recommend this review for anyone starting out in research related to these fields.
 
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
