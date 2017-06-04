@@ -1,8 +1,8 @@
 Quantum Algorithms and Machine Learning Reading Group
 ======
-This is a reading material archive for a journal club held at Melbourne University. 
+This is a reading archive for a journal club held at Melbourne University. Everybody is welcome to be involved. Please feel free to send pull requests with edits, added summaries or interesting links you might have stumbled across. 
 
-A paper will be sent out every fortnight. The goal is to openly discuss it at various depths as a group. So no matter what your background is, we will all hopefully learn something. The meetings are casual, so there's no pressure to present or anything like that.
+A paper will be sent out and added to this list every fortnight. The goal is to openly discuss it at various depths as a group. So no matter what your background is, we will all hopefully learn something. The meetings are casual, so there's no pressure to present or anything like that.
 
 In the past weeks we have covered the following papers:
 
@@ -113,6 +113,8 @@ Quantum computing will speedup machine learning algorithms and machine learning 
 [An Introduction to Quantum Machine Learning](http://dx.doi.org/10.1080/00107514.2014.964942) (15-Oct-14) - Schuld, Sinayskiy, and Petruccione
 
 ## Useful Links
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) is a great free online book by Michael Nielsen (the same author of the quantum computation and quantum information textbook)
+
 [colah's blog](http://colah.github.io/) for various machine learning concepts and in particular the post [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.54871&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) lets you play with neural networks that are completely visualised. Very useful for gaining intuition for how they learn.
