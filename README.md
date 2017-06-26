@@ -95,10 +95,18 @@ This is a great and detailed literature review on the fields combining machine l
 
 Quantum computing will speedup machine learning algorithms and machine learning algorithms can be used to help create better quantum computers. This leads to a frontier where both fields will co-evolve and become enabling technologies for each other. However there are still many problems to investigate and challenges to overcome. I highly recommend this review for anyone starting out in research related to these fields.
 
-__Next Week: Quantum algorithms for Gibbs sampling and hitting-time estimation__ - Chowdhury and Somma
+__11. Quantum algorithms for Gibbs sampling and hitting-time estimation__ - Chowdhury and Somma
   * Center for Quantum Information and Control at the University of New Mexico, Theoretical Division at the Los Alamos National Laboratory.
   
 > Chowdhury, Anirban Narayan, and Rolando D. Somma. "Quantum algorithms for Gibbs sampling and hitting-time estimation." arXiv preprint [arXiv:1603.02940](https://arxiv.org/abs/1603.02940) (09-Mar-16).
+
+__This Week: Simulating Hamiltonian Dynamics with a Truncated Taylor Series__ - Berry, Childs, Cleve, Kothari, and Somma
+  * Macquarie University, University of Waterloo, University of Maryland, Canadian Institute for Advanced Research, MIT, Theoretical Division at the Los Alamos National Laboratory.
+  
+> Berry, Dominic W., et al. [Physical review letters](https://doi.org/10.1103/PhysRevLett.114.090502) 114.9 (03-Mar-15): 090502.   
+Berry, Dominic W., et al. arXiv preprint [arXiv:1412.4687](https://arxiv.org/abs/1412.4687) (15-Dec-14).
+
+Also check out the "High-level overview of techniques" and "Linear Combination of Unitaries algorithm" sections of Robin Kothari's [PhD thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/8625/Kothari_Robin.pdf).
   
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
