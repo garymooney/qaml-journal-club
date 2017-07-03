@@ -100,13 +100,27 @@ __11. Quantum algorithms for Gibbs sampling and hitting-time estimation__ - Chow
   
 > Chowdhury, Anirban Narayan, and Rolando D. Somma. "Quantum algorithms for Gibbs sampling and hitting-time estimation." arXiv preprint [arXiv:1603.02940](https://arxiv.org/abs/1603.02940) (09-Mar-16).
 
-__This Week: Simulating Hamiltonian Dynamics with a Truncated Taylor Series__ - Berry, Childs, Cleve, Kothari, and Somma
+__12. Simulating Hamiltonian Dynamics with a Truncated Taylor Series__ - Berry, Childs, Cleve, Kothari, and Somma
   * Macquarie University, University of Waterloo, University of Maryland, Canadian Institute for Advanced Research, MIT, Theoretical Division at the Los Alamos National Laboratory.
   
 > Berry, Dominic W., et al. [Physical review letters](https://doi.org/10.1103/PhysRevLett.114.090502) 114.9 (03-Mar-15): 090502.   
 Berry, Dominic W., et al. arXiv preprint [arXiv:1412.4687](https://arxiv.org/abs/1412.4687) (15-Dec-14).
 
 Also check out the "High-level overview of techniques" and "Linear Combination of Unitaries algorithm" sections of Robin Kothari's [PhD thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/8625/Kothari_Robin.pdf).
+
+Previously in the quantum algorithm literature, Hamiltonian simulation algorithms have already achieved exponential speedups over their predecessors. This paper introduces a new Hamiltonian simulation algorithm that achieves the same complexity as current state of the art although is simpler and is efficient for a larger class of Hamiltonians.
+
+It works by initially discretizing the time evolution into small steps and expanding each step as a Taylor series, then truncating this expansion based on desired precision. We are left with a series of power terms of the Hamiltonian that are not yet unitary, although each of the terms can be expanded as a linear combination of unitaries. Once expanded, the terms are contracted to form a single linear combination of unitary operators, V. To apply V, the authors use something called p-implementation, mentioned in Kothari's thesis, which is a transformation that results in two subspaces, one of which implements operator V and the other contains unwanted orthogonal states. The authors then use their new technique of oblivious amplitude amplification to amplify the propability of the desired subspace, operated upon by V, which works without knowledge of the input state.
+
+The paper first shows how this method can be applied with time-independent Hamiltonians and then shows how to extend it to time-dependent Hamiltonians by discretizing time and breaking it into a summation of time-independent Hamiltonians.
+
+David found a bunch of presentations by the authors containing further and lighter explanations
+http://www.dominicberry.org/presentations/Bristol.pdf   
+http://www.dominicberry.org/presentations/Durban.pdf   
+http://www.quantum-lab.org/qip2015/slides/QIP2015-Dominic%20Berry.pdf   
+https://www.cs.umd.edu/~amchilds/talks/ibm13.pdf
+
+And the paper https://arxiv.org/abs/1501.01715
   
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
