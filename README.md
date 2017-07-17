@@ -122,11 +122,17 @@ https://www.cs.umd.edu/~amchilds/talks/ibm13.pdf
 
 And the paper https://arxiv.org/abs/1501.01715
 
-__Next Week: Learning in Quantum Control: High-Dimensional Global Optimization for Noisy Quantum Dynamics__ - Palittapongarnpim, Wittek, Zahedinejad, Vedaie and Sanders
+__13. Learning in Quantum Control: High-Dimensional Global Optimization for Noisy Quantum Dynamics__ - Palittapongarnpim, Wittek, Zahedinejad, Vedaie and Sanders
   * University of Calgary, ICFO - The Institute of Photonic Sciences (Spain), University of Borås (Sweden), Canadian Institute for Advanced Research and the University of Science and Technology of China.
   
 > Palittapongarnpim, Pantita, et al. [Neurocomputing](https://doi.org/10.1016/j.neucom.2016.12.087) (30-Apr-17).   
 Palittapongarnpim, Pantita, et al. arXiv preprint [arXiv:1607.03428](https://arxiv.org/abs/1607.03428) (25-Nov-16).
+
+__Next Week: High-order quantum algorithm for solving linear differential equations__ - Dominic W Berry
+  * Macquarie University, Institute for Quantum Computing - University of Waterloo
+  
+> Berry, Dominic W. [Journal of Physics A: Mathematical and Theoretical](http://iopscience.iop.org/article/10.1088/1751-8113/47/10/105301/meta) 47.10 (19-Feb-14): 105301.   
+Berry, Dominic W. arXiv preprint [arXiv:1010.2745](https://arxiv.org/abs/1010.2745) (13-Oct-10).
 
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
