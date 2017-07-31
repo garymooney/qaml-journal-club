@@ -16,9 +16,6 @@ As the title suggests this paper introduces a new quantum algorithm for solving 
 
 The method uses a technique where a non-unitary transformation involving measurement is used within the quantum circuit. Computation is only continued if a particular qubit state is measured, otherwise it is repeated.
 
-We later found that this idea could be extended to [linear differential equations](https://arxiv.org/abs/1010.2745)
-and [non-linear differential equations](https://arxiv.org/abs/0812.4423)
-
 __2. Quantum Algorithms for Supervised and Unsupervised Machine Learning__ - Lloyd, Mohseni and Rebentrost.  
   * MIT and Google.
 
@@ -134,7 +131,7 @@ __14. High-order quantum algorithm for solving linear differential equations__ -
 > Berry, Dominic W. [Journal of Physics A: Mathematical and Theoretical](http://iopscience.iop.org/article/10.1088/1751-8113/47/10/105301/meta) 47.10 (19-Feb-14): 105301.   
 Berry, Dominic W. arXiv preprint [arXiv:1010.2745](https://arxiv.org/abs/1010.2745) (13-Oct-10).
 
-__Next Week: Quantum Enhanced Inference in Markov Logic Networks__ - Wittek, Gogolin
+__Next Week: Quantum Enhanced Inference in Markov Logic Networks__ - Wittek and Gogolin
   * ICFO - The Institute of Photonic Sciences (Spain), University of Borås (Sweden).
   
 > Wittek, Peter, and Christian Gogolin. [Scientific Reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395824/) 7 (19-Apr-17).   
