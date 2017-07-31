@@ -128,11 +128,17 @@ __13. Learning in Quantum Control: High-Dimensional Global Optimization for Nois
 > Palittapongarnpim, Pantita, et al. [Neurocomputing](https://doi.org/10.1016/j.neucom.2016.12.087) (30-Apr-17).   
 Palittapongarnpim, Pantita, et al. arXiv preprint [arXiv:1607.03428](https://arxiv.org/abs/1607.03428) (25-Nov-16).
 
-__Next Week: High-order quantum algorithm for solving linear differential equations__ - Dominic W Berry
+__14. High-order quantum algorithm for solving linear differential equations__ - Dominic W Berry
   * Macquarie University, Institute for Quantum Computing - University of Waterloo
   
 > Berry, Dominic W. [Journal of Physics A: Mathematical and Theoretical](http://iopscience.iop.org/article/10.1088/1751-8113/47/10/105301/meta) 47.10 (19-Feb-14): 105301.   
 Berry, Dominic W. arXiv preprint [arXiv:1010.2745](https://arxiv.org/abs/1010.2745) (13-Oct-10).
+
+__Next Week: Quantum Enhanced Inference in Markov Logic Networks__ - Wittek, Gogolin
+  * ICFO - The Institute of Photonic Sciences (Spain), University of Borås (Sweden).
+  
+> Wittek, Peter, and Christian Gogolin. [Scientific Reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395824/) 7 (19-Apr-17).   
+Wittek, Peter, and Christian Gogolin. arXiv preprint [arXiv:1611.08104](https://arxiv.org/abs/1611.08104) (24-Nov-16).
 
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
