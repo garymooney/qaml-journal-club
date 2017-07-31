@@ -138,6 +138,8 @@ __Next Week: Quantum Enhanced Inference in Markov Logic Networks__ - Wittek and 
 Wittek, Peter, and Christian Gogolin. arXiv preprint [arXiv:1611.08104](https://arxiv.org/abs/1611.08104) (24-Nov-16).
 
 ## Interesting Papers (not yet covered)
+[Quantum Machine Learning: A Classical Perspective](https://arxiv.org/abs/1707.08561) (26-Jul-17) - Ciliberto, Herbster, Lalongo, Pontil, Rocchetto, Severini, Wossnig
+
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
 
 [Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine, Yakira, Cohen and Shashua
