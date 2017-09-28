@@ -137,10 +137,21 @@ __15. Quantum Enhanced Inference in Markov Logic Networks__ - Wittek and Gogolin
 > Wittek, Peter, and Christian Gogolin. [Scientific Reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395824/) 7 (19-Apr-17).   
 Wittek, Peter, and Christian Gogolin. arXiv preprint [arXiv:1611.08104](https://arxiv.org/abs/1611.08104) (24-Nov-16).
 
-__Next Week: Quantum Machine Learning: A Classical Perspective__ - Ciliberto, Herbster, Ialongo, Pontil, Rocchetto, Severini, and Wossnig
+__16. Quantum Machine Learning: A Classical Perspective__ - Ciliberto, Herbster, Ialongo, Pontil, Rocchetto, Severini, and Wossnig
   * University College London, University of Cambridge, Max Planck Institute for Intelligent Systems, Istituto Italiano di Tecnologia, University of Oxford, Shanghai Jiao Tong University, ETH Zürich.
   
 > Ciliberto, Carlo, et al. arXiv preprint [arXiv:1707.08561](https://arxiv.org/abs/1707.08561) (26-Jul-17).
+
+__17. Hamiltonian for the Zeros of the Riemann Zeta Function__ - Bender, Brody and Müller
+  * Washington University, Brunel University London, ITMO University Russia, and University of Western Ontario.
+  
+> Bender, Carl M., Dorje C. Brody, and Markus P. Müller. arXiv preprint [arXiv:1608.03679](https://arxiv.org/abs/1608.03679) (12-Aug-16).   
+Bender, Carl M., Dorje C. Brody, and Markus P. Müller. [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.130201) 118.13 (30-Mar-17): 130201.
+
+__Next Week: A Quantum Approximate Optimization Algorithm__ - Fahri, Goldstone and Gutmann
+  * MIT.
+  
+> Farhi, Edward, Jeffrey Goldstone, and Sam Gutmann. arXiv preprint [arXiv:1411.4028](https://arxiv.org/abs/1411.4028) (14-Nov-14).
 
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
