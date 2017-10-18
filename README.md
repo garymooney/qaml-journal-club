@@ -153,6 +153,14 @@ __18. A Quantum Approximate Optimization Algorithm__ - Fahri, Goldstone and Gutm
   
 > Farhi, Edward, Jeffrey Goldstone, and Sam Gutmann. arXiv preprint [arXiv:1411.4028](https://arxiv.org/abs/1411.4028) (14-Nov-14).
 
+Here's some further reading contributed by David.   
+Some clean explanations of parts of the paper (scattered throughout the webpage)   
+http://grove-docs.readthedocs.io/en/latest/qaoa.html   
+More recent paper (Sep 2017). Contains some generalisations. Also mappings to various problems.   
+https://arxiv.org/abs/1709.03489   
+This contains a video recording of a presentation by Farhi on QAOA   
+http://online.kitp.ucsb.edu/online/synquant16/farhi/
+
 __Next Week: Quantum Supremacy through the Quantum Approximate Optimization Algorithm__ - Fahri and Harrow
   * MIT.
   
