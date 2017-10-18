@@ -148,12 +148,19 @@ __17. Hamiltonian for the Zeros of the Riemann Zeta Function__ - Bender, Brody a
 > Bender, Carl M., Dorje C. Brody, and Markus P. Müller. arXiv preprint [arXiv:1608.03679](https://arxiv.org/abs/1608.03679) (12-Aug-16).   
 Bender, Carl M., Dorje C. Brody, and Markus P. Müller. [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.130201) 118.13 (30-Mar-17): 130201.
 
-__Next Week: A Quantum Approximate Optimization Algorithm__ - Fahri, Goldstone and Gutmann
+__18. A Quantum Approximate Optimization Algorithm__ - Fahri, Goldstone and Gutmann
   * MIT.
   
 > Farhi, Edward, Jeffrey Goldstone, and Sam Gutmann. arXiv preprint [arXiv:1411.4028](https://arxiv.org/abs/1411.4028) (14-Nov-14).
 
+__Next Week: Quantum Supremacy through the Quantum Approximate Optimization Algorithm__ - Fahri and Harrow
+  * MIT.
+  
+> Farhi, Edward, and Aram W. Harrow. arXiv preprint [arXiv:1602.07674](https://arxiv.org/abs/1602.07674) (24-Feb-16).
+
 ## Interesting Papers (not yet covered)
+[A Quantum Recurrent Neural Network](https://arxiv.org/abs/1710.03599) (10-Oct-17) - Rebentrost, Bromley, Weedbrook, Lloyd
+
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
 
 [Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine, Yakira, Cohen and Shashua
