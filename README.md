@@ -161,14 +161,17 @@ https://arxiv.org/abs/1709.03489
 This contains a video recording of a presentation by Farhi on QAOA   
 http://online.kitp.ucsb.edu/online/synquant16/farhi/
 
-__Next Week: Quantum Supremacy through the Quantum Approximate Optimization Algorithm__ - Fahri and Harrow
+__19. Quantum Supremacy through the Quantum Approximate Optimization Algorithm__ - Fahri and Harrow
   * MIT.
   
 > Farhi, Edward, and Aram W. Harrow. arXiv preprint [arXiv:1602.07674](https://arxiv.org/abs/1602.07674) (24-Feb-16).
 
-## Interesting Papers (not yet covered)
-[A Quantum Recurrent Neural Network](https://arxiv.org/abs/1710.03599) (10-Oct-17) - Rebentrost, Bromley, Weedbrook, Lloyd
+__Next Week: A Quantum Recurrent Neural Network__ - Rebentrost, Bromley, Weedbrook, Lloyd
+  * Xanadu, Toronto, Canada. MIT.
 
+> Rebentrost, Patrick, et al. "A Quantum Recurrent Neural Network." arXiv preprint [arXiv:1710.03599](https://arxiv.org/abs/1710.03599) (10-Oct-17).
+
+## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
 
 [Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine, Yakira, Cohen and Shashua
