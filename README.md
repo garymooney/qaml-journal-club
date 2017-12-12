@@ -174,7 +174,7 @@ __20. A Quantum Recurrent Neural Network__ - Rebentrost, Bromley, Weedbrook and 
 __Next Week: Breaking the 49-Qubit Barrier in the Simulation of Quantum Circuits__ - Pednault, Gunnels, Nannicini, Horesh, Magerlein, Solomonik and Wisnieff
   * IBM. Dept. of Computer Science, University of Illinois at Urbana-Champaign, Champaign, IL.
 
-> Pednault, Edwin, et al. arXiv preprint [arXiv:1710.05867](hhttps://arxiv.org/abs/1710.05867) (16-Oct-17).
+> Pednault, Edwin, et al. arXiv preprint [arXiv:1710.05867](https://arxiv.org/abs/1710.05867) (16-Oct-17).
 
 ## Interesting Papers (not yet covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
