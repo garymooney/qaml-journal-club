@@ -1,10 +1,10 @@
-Quantum Algorithms and Machine Learning Reading Group
+Quantum Algorithms and Machine Learning Reading Group (2017)
 ======
-This is a reading archive for a journal club held at Melbourne University. Everybody is welcome to be involved. Please feel free to send pull requests with edits, added summaries or interesting links you might have stumbled across. 
+We are finished for 2017 but will be back with another group next year.
 
-A paper will be sent out and added to this list every fortnight. The goal is to openly discuss it at various depths as a group. So no matter what your background is, we will all hopefully learn something. The meetings are casual, so there's no pressure to present or anything like that.
+This is a reading archive for a journal club held at Melbourne University. Everybody is welcome to be involved. Please feel free to send pull requests with edits, added summaries or interesting links you might have stumbled across.
 
-In the past weeks we have covered the following papers:
+During the past year we have covered the following papers:
 
 __1. Quantum Algorithm for Linear Systems of Equations (HHL)__ - Harrow, Hassidim and Lloyd.  
   * University of Bristol and MIT.
@@ -171,12 +171,12 @@ __20. A Quantum Recurrent Neural Network__ - Rebentrost, Bromley, Weedbrook and 
 
 > Rebentrost, Patrick, et al. "A Quantum Recurrent Neural Network." arXiv preprint [arXiv:1710.03599](https://arxiv.org/abs/1710.03599) (10-Oct-17).
 
-__Next Week: Breaking the 49-Qubit Barrier in the Simulation of Quantum Circuits__ - Pednault, Gunnels, Nannicini, Horesh, Magerlein, Solomonik and Wisnieff
+__21. Breaking the 49-Qubit Barrier in the Simulation of Quantum Circuits__ - Pednault, Gunnels, Nannicini, Horesh, Magerlein, Solomonik and Wisnieff
   * IBM. Dept. of Computer Science, University of Illinois at Urbana-Champaign, Champaign, IL.
 
 > Pednault, Edwin, et al. arXiv preprint [arXiv:1710.05867](https://arxiv.org/abs/1710.05867) (16-Oct-17).
 
-## Interesting Papers (not yet covered)
+## Interesting Papers (not covered)
 [A Quantum Linear System Algorithm for Dense Matrices](https://arxiv.org/abs/1704.06174) (3-May-17) - Wossnig, Zhao and Prakash
 
 [Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design](https://arxiv.org/abs/1704.01552) (10-Apr-17) - Levine, Yakira, Cohen and Shashua
